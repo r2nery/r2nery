@@ -3,3 +3,7 @@ BSc in Economics from [**Universidade de Brasília, Brazil**](https://www.unb.br
 Currently, I'm working as an Economic Research Analyst at **Sistema OCB**.</br>
 I'm interested in industrial applications of causal inference, NLP, and time series forecasting.</br></br>
 Thank you for coming by!
+
+#### Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height = "20"/>
+          
