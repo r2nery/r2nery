@@ -11,7 +11,7 @@ Thank you for coming by!
 <img src="https://www.svgrepo.com/show/374098/stata.svg" height = "30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height = "30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = "30"/>
-<br>
+<br><br>
 **Figuring out:** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height = "30"/>
 
