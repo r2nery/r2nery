@@ -1,5 +1,5 @@
 # Hi there! I am Arthur. 
-<img src="https://i.imgur.com/fOaksfi.gif" height="70"/> 
+<img src="https://i.imgur.com/fOaksfi.gif" height="70"/> </br>
 BSc in Economics from [**Universidade de Brasília, Brazil**](https://www.unb.br/)</br>
 Currently, I'm working as an Economic Research Analyst at **Sistema OCB**.</br></br>
 I'm interested in industry applications of causal inference, NLP, and time series forecasting.</br>
