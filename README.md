@@ -1,5 +1,5 @@
 # Hi there! I am Arthur. 
-# <img src="https://i.imgur.com/fOaksfi.gif" height="40"/> 
+## <img src="https://i.imgur.com/fOaksfi.gif" height="40"/> 
 
 BSc in Economics from [**Universidade de Brasília, Brazil**](https://www.unb.br/)</br>
 Currently, I'm working as an Economic Research Analyst at **Sistema OCB**.</br></br>
