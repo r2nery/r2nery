@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/fOaksfi.gif" height="70"/><img src="https://i.imgur.com/fOaksfi.gif" height="70"/> </br></br>
 Economics BsC from [**Universidade de Brasília, Brazil**](https://www.unb.br/)</br>
 Currently, I'm working as an Economic Research Analyst at the **Organization of Brazilian Cooperatives (OCB)**.</br></br>
-I'm interested in industry applications of causal inference, NLP, and time series forecasting.</br>
+I'm interested in industry applications of causal inference, NLP, and time series analysis.</br>
 Thank you for coming by!
 <br><br>
 **Stack:** <br>
